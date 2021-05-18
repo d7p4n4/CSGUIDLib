@@ -3,7 +3,11 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Authors>d7p4n4</Authors>
+    <Authors>sycompla</Authors>
+    <Version>1.1.2021.0518</Version>
+    <PackageId>CSD7p4n4GUIDLib</PackageId>
+    <AssemblyVersion>1.1.2021.0518</AssemblyVersion>
+    <FileVersion>1.1.2021.0518</FileVersion>
   </PropertyGroup>
 
 </Project>
